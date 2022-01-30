@@ -12,4 +12,4 @@
 
 ## Задание
 
-Определить интерфейсы `ApiRequest<TData>`, `ApiSuccess<TData>`, `ApiError<TData>` и показать вариант организации обмена.
+Определить интерфейсы `ApiRequest<TData>`, `ApiSuccess<TData>`, `ApiError<TData>` и показать вариант организации обмена на примере резервирования столика в ресторане (`TableReservation`)
